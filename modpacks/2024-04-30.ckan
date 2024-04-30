@@ -1,0 +1,200 @@
+{
+    "spec_version": "v1.18",
+    "identifier": "rp1-april-2024",
+    "name": "RP-1 mods April 2024",
+    "abstract": "A list of modules installed on the KSP_linux KSP instance",
+    "author": "craig",
+    "version": "2024.04.30.02.24.41",
+    "ksp_version_min": "1.11",
+    "ksp_version_max": "1.12",
+    "license": "Unlicense",
+    "depends": [
+        {
+            "name": "BetterTimeWarpCont",
+            "version": "2.3.13"
+        },
+        {
+            "name": "CanaveralPads",
+            "version": "v1.1.0.0"
+        },
+        {
+            "name": "CommunityTechTree",
+            "version": "1:3.4.4"
+        },
+        {
+            "name": "DistantObject",
+            "version": "v2.1.1.15"
+        },
+        {
+            "name": "EditorExtensionsRedux",
+            "version": "3.4.5"
+        },
+        {
+            "name": "FilterExtensions",
+            "version": "3.2.9"
+        },
+        {
+            "name": "HeatControl",
+            "version": "0.6.1"
+        },
+        {
+            "name": "HotSpot",
+            "version": "0.9.0"
+        },
+        {
+            "name": "HullcamVDSContinued",
+            "version": "0.2.2.1"
+        },
+        {
+            "name": "InternalRCS",
+            "version": "1.3"
+        },
+        {
+            "name": "JanitorsCloset",
+            "version": "0.3.8"
+        },
+        {
+            "name": "KerbalAlarmClock",
+            "version": "v3.14.0.0"
+        },
+        {
+            "name": "KerbalFoundriesContinued",
+            "version": "2.4.8.18"
+        },
+        {
+            "name": "Kerbalism-SystemHeat",
+            "version": "0.5.0"
+        },
+        {
+            "name": "KerbalWind",
+            "version": "1:v1.0.2"
+        },
+        {
+            "name": "kOS",
+            "version": "1:1.4.0.0"
+        },
+        {
+            "name": "LunarTransferPlanner",
+            "version": "v1.0.0"
+        },
+        {
+            "name": "NavHudRenewed",
+            "version": "1.4.0.5"
+        },
+        {
+            "name": "NavUtilitiesUpdated",
+            "version": "0.8.0.9"
+        },
+        {
+            "name": "NearFutureAeronautics",
+            "version": "2.1.1"
+        },
+        {
+            "name": "NearFutureConstruction",
+            "version": "1.3.1"
+        },
+        {
+            "name": "NearFutureElectrical",
+            "version": "1.2.3"
+        },
+        {
+            "name": "NearFutureExploration",
+            "version": "1.1.2"
+        },
+        {
+            "name": "NearFuturePropulsion",
+            "version": "1.3.5"
+        },
+        {
+            "name": "NearFutureSolar",
+            "version": "1.3.2"
+        },
+        {
+            "name": "NearFutureSpacecraft",
+            "version": "1.4.3"
+        },
+        {
+            "name": "PAPILights",
+            "version": "0.5.0.6"
+        },
+        {
+            "name": "PlanetShine",
+            "version": "0.2.6.6"
+        },
+        {
+            "name": "PreciseEditor",
+            "version": "1:1.5.0.1"
+        },
+        {
+            "name": "ROLoadingImages",
+            "version": "v1.0.0.0"
+        },
+        {
+            "name": "RP-1",
+            "version": "v3.5.0.0"
+        },
+        {
+            "name": "RP-1-ExpressInstall",
+            "version": "v2.0"
+        },
+        {
+            "name": "RP-1-ExpressInstall-Graphics-Low",
+            "version": "v1.0.0.0"
+        },
+        {
+            "name": "RSS-CanaveralHD",
+            "version": "v1.0.1"
+        },
+        {
+            "name": "RSSVE-LR",
+            "version": "2.1.6"
+        },
+        {
+            "name": "Scatterer-sunflare",
+            "version": "3:v0.0838"
+        },
+        {
+            "name": "StationPartsExpansionRedux",
+            "version": "2.0.10"
+        },
+        {
+            "name": "SystemHeat",
+            "version": "0.6.0"
+        },
+        {
+            "name": "SystemHeat-Converters",
+            "version": "0.6.0"
+        },
+        {
+            "name": "SystemHeat-FissionEngines",
+            "version": "0.6.0"
+        },
+        {
+            "name": "SystemHeat-FissionReactors",
+            "version": "0.6.0"
+        },
+        {
+            "name": "SystemHeat-Harvesters",
+            "version": "0.6.0"
+        },
+        {
+            "name": "Toolbar",
+            "version": "1:1.8.1.1"
+        },
+        {
+            "name": "Trajectories",
+            "version": "v2.4.5.3"
+        },
+        {
+            "name": "TransferWindowPlannerFork",
+            "version": "v1.9.1.0"
+        },
+        {
+            "name": "WaypointManager",
+            "version": "2.8.4.2"
+        }
+    ],
+    "download": null,
+    "release_date": "2024-04-30T14:24:41.685936+12:00",
+    "kind": "metapackage"
+}
