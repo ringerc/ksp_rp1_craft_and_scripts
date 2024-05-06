@@ -1,1 +1,3 @@
-find Ships/VAB -type d -not -name VAB -print0 | xargs -i -0 cp -r '{}' "/home/craig/projects/ksp_rp1_craft_and_scripts/Ships/VAB/"
+#!/bin/bash
+find ~/apps/games/KSP_linux/saves/rp1-2/Ships/VAB -type d -not -name VAB -print0 | xargs -i -0 cp -r '{}' "/home/craig/projects/ksp_rp1_craft_and_scripts/Ships/VAB/"
+cp ~/apps/games/KSP_linux/saves/rp1-2/00* Saves/rp1-2/
